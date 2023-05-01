@@ -1,0 +1,21 @@
+.wrapper{
+    background-color: rgb(95, 52, 117);
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    height: 500px;
+    width: 500px;
+    margin-left: 200px;
+}
+.wrapper img {
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+
+}
+.wrapper button{
+    font-size: x-large;
+    background-color: rgb(215, 28, 28);
+    margin-top: 20px;
+    border-radius: 10px;
+}
