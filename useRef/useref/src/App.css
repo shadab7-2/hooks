@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  margin-top: 100px;
+  background-color: aquamarine;
+  width: 250px;
+  height: 250px;
+  margin-left: 250px;
+}
+.App input {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.App button{
+  margin-top: 20px;
+ 
+}
+
+
